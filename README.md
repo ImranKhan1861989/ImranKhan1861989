@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImranKhan1861989
-- 👀 I’m interested in Data Science/ML roles in Biology
+- 👀 I’m just curious about Data Science/ML applications in Biology
 - 🌱 I’m currently learning ...LLM
 - 💞️ I’m looking to collaborate on ...AI in Healthcare/Biology
 - 📫 How to reach me ...emraan.9.4@gmail.com
